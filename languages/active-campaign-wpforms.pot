@@ -1,0 +1,148 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Active Campaign & WPForms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-10 01:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. Name of the plugin
+msgid "Active Campaign & WPForms"
+msgstr ""
+
+#: active-campaign-wpforms.php:60
+msgid "Active Campaign & WPForms  requires WPForms to be installed and active."
+msgstr ""
+
+#: includes/acwf-settings.php:24
+msgid "Active Campaign Integration"
+msgstr ""
+
+#: includes/acwf-settings.php:36
+msgid "Active Campaign Settings"
+msgstr ""
+
+#: includes/acwf-settings.php:43
+msgid "Active Campaign URL"
+msgstr ""
+
+#: includes/acwf-settings.php:198
+msgid "Add Custom Fields."
+msgstr ""
+
+#: includes/acwf-settings.php:200
+msgid "Add Field"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add WPForms Data to Active Campiagn Contact lists."
+msgstr ""
+
+#: includes/acwf-settings.php:36
+msgid "Add your Active Campaign API credentials here."
+msgstr ""
+
+#: includes/acwf-settings.php:48
+msgid "API Key"
+msgstr ""
+
+#: includes/acwf-settings.php:73
+msgid "Assign Form Fields"
+msgstr ""
+
+#: includes/acwf-settings.php:203
+msgid "Available in Premium Version."
+msgstr ""
+
+#: includes/acwf-settings.php:190
+msgid "Available in Pro Version."
+msgstr ""
+
+#: includes/acwf-settings.php:82
+msgid "Email Address*"
+msgstr ""
+
+#: includes/acwf-settings.php:85
+msgid ""
+"Enter the email address to save in your Active Campaign Contact Lists.You "
+"can also use the smart tags from your form fields."
+msgstr ""
+
+#: includes/acwf-subscribe.php:60
+msgid "Error in saving Data to Active Campaign"
+msgstr ""
+
+#: includes/acwf-settings.php:106
+msgid "First Name"
+msgstr ""
+
+#: includes/acwf-settings.php:97
+msgid ""
+"Following fields are optional select if available in form, otherwise leave "
+"unselected. Only email field is required."
+msgstr ""
+
+#: includes/acwf-settings.php:192 includes/acwf-settings.php:204
+msgid "Get Pro Version"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ac-wpforms"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpoperation.com"
+msgstr ""
+
+#: includes/acwf-settings.php:135
+msgid ""
+"If you have Name field containing first and last name then you can skip this "
+"field otherwise teo data will be saved."
+msgstr ""
+
+#: includes/acwf-settings.php:122
+msgid "Last Name"
+msgstr ""
+
+#: includes/acwf-settings.php:54
+msgid "List ID"
+msgstr ""
+
+#: includes/acwf-settings.php:160
+msgid "Organization"
+msgstr ""
+
+#: includes/acwf-settings.php:143
+msgid "Phone"
+msgstr ""
+
+#: includes/acwf-settings.php:50
+msgid "Please enter a valid API Key."
+msgstr ""
+
+#: includes/acwf-settings.php:26
+msgid "Save Settings"
+msgstr ""
+
+#: includes/acwf-settings.php:177
+msgid "Tags"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPoperation"
+msgstr ""
+
+#: includes/acwf-settings.php:109 includes/acwf-settings.php:125
+#: includes/acwf-settings.php:146 includes/acwf-settings.php:163
+#: includes/acwf-settings.php:180
+msgid "You can use the smart tags from your form fields."
+msgstr ""
